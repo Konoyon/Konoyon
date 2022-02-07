@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Konoyon(Konyon)
-- 💬 I play VRchat and beat saber
+- 💬 I play VRchat, beat saberz and zenith
 - 👀 I’m interested in learning realtime motion video, java, c++
 - 🌱 I’m currently learning 3D modeling, C#
 - 💞️ I’m looking to collaborate on nothing at this moment
